@@ -1,2 +1,3 @@
 # Little-League-Database
-SQL Database that mimics a baseball league
+SQL sports league database that records information on teams and players within a league. Each team consists of participants, a mascot, a primary color, a record (W/L/D), a division, matches, and a stadium. Each player and coach have a specific role they play on the team, a contract expiration date, basic physical attributes, and statistics. Each stadium has a location and seat number. Each match records the home team, away team, stadium, date, and score. With this application, lots of data can be sorted through and analyzed. For example, for any player, one can learn what team they are on, who their coach is, their statistics, and lots of other information.
+
